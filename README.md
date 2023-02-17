@@ -2,6 +2,7 @@
 Machine learning study notes
 
 Some good resources for machine learning:
+
 Kaggle: https://www.kaggle.com/
 
 Linear algebra: https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/syllabus/ 
